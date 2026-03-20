@@ -35,7 +35,7 @@ Local Development → GitHub → Azure App Service → Live Web App
 
 ## 📂 Project Structure
 
-.
+
 ├── app.py
 
 ├── index.html
