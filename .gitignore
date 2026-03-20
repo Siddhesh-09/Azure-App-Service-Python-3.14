@@ -1,0 +1,17 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Azure & IDE Settings
+.azure/
+.vscode/
+.idea/
+
+# Environment Variables (Security)
+.env
