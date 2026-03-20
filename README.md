@@ -1,4 +1,4 @@
-# 🚀 Azure App Service Deployment with Python (Day 8)
+# 🚀 Azure App Service Deployment with Python
 
 ## 📌 Overview
 This project demonstrates how to build and deploy a **Python 3.14 web application** on Microsoft Azure using **Azure App Service**, with source code hosted on GitHub.
@@ -40,8 +40,11 @@ Local Development → GitHub → Azure App Service → Live Web App
 
 .
 ├── app.py
+
 ├── index.html
+
 ├── requirements.txt
+
 └── README.md
 
 
@@ -51,7 +54,7 @@ Local Development → GitHub → Azure App Service → Live Web App
 
 ### app.py
 
-```python
+```python```
 from flask import Flask, send_from_directory
 
 app = Flask(__name__)
@@ -134,4 +137,5 @@ Add CI/CD pipeline
 🙌 Author
 
 Siddhesh Khanorkar
+
 Cloud & DevOps Learner ☁️🚀
