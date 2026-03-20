@@ -37,8 +37,11 @@ Local Development → GitHub → Azure App Service → Live Web App
 
 .
 ├── app.py
+
 ├── index.html
+
 ├── requirements.txt
+
 └── README.md
 
 ---
